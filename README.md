@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @bahodirov07uz
-- 👀 I’m interested in iT, history and policy🗿
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Yahyobek
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Algorsoft
 
 <!---
 bahodirov07uz/bahodirov07uz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
