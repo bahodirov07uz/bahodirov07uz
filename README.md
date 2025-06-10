@@ -1,3 +1,8 @@
+## 📬 Murojaat uchun
+
+[![Kwork](https://img.shields.io/badge/Kwork-ff8c00?style=for-the-badge&logo=k&logoColor=white)](https://kwork.uz/user/SIZNING_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SIZNING_USERNAME)
+
 ## 💻 Python Stack
 
 ## 💻 Python Stack va Texnologiyalar
