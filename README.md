@@ -1,3 +1,6 @@
+Hi! I'm [Yahyobek], a passionate full-stack developer from Uzbekistan 🇺🇿
+I specialize in building modern, responsive, and scalable web applications using:
+
 ## 📬 Murojaat uchun
 
 [![Kwork](https://img.shields.io/badge/Kwork-ff8c00?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/django_dev)
