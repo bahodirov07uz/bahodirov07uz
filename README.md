@@ -1,11 +1,11 @@
 ## 📬 Murojaat uchun
 
-[![Kwork](https://img.shields.io/badge/Kwork-ff8c00?style=for-the-badge&logo=k&logoColor=white)](https://kwork.uz/user/SIZNING_USERNAME)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SIZNING_USERNAME)
+[![Kwork](https://img.shields.io/badge/Kwork-ff8c00?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/django_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m16uzb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bahodirov._2007)
 
-## 💻 Python Stack
 
-## 💻 Python Stack va Texnologiyalar
+## 💻 Tech-Stack 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
