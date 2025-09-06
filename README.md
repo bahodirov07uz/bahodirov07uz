@@ -1,5 +1,4 @@
-Hi! I'm Yahyobek, full-stack developer from Uzbekistan 🇺🇿
-I specialize in building modern, responsive, and scalable web applications using:
+Backend developer
 
 ## 📬 Murojaat uchun
 
